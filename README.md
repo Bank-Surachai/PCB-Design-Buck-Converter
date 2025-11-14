@@ -53,3 +53,13 @@ This ensures stable regulation and prevents oscillations.
 Provide the final regulated DC voltage to the load
 
 Connected after filtering elements for maximum stability
+
+This is my circuit schematic:
+
+<img width="1542" height="633" alt="Screenshot 2025-11-14 112037" src="https://github.com/user-attachments/assets/8b158561-fe50-4356-a6e2-1f3a774a9d0f" />
+
+This is 3D of my PCB:
+<img width="1264" height="829" alt="Screenshot 2025-11-14 111901" src="https://github.com/user-attachments/assets/60d3b0cb-72de-4634-a318-ce220fad6b6c" />
+
+This is real PCB:
+![Mypcb](https://github.com/user-attachments/assets/bea26613-01a2-4a98-82ed-826a8f677336)
