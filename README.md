@@ -63,4 +63,4 @@ This is 3D of my PCB:
 
 This is real PCB:
 ![Mypcb](https://github.com/user-attachments/assets/bea26613-01a2-4a98-82ed-826a8f677336)
-
+![image](https://github.com/user-attachments/assets/981a7c17-9c79-4e74-9665-bed71efd543c)
